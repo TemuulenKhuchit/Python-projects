@@ -11,5 +11,4 @@ else:
 finally:
     file.close()
 
-
 # Upgraded Day 29 project with error handling and JSON data
